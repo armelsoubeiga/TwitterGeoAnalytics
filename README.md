@@ -8,7 +8,7 @@ L'application Shiny est accéssible sur ce lien [TwitterGeoAnalytics App](https:
 )
 
 Cette analyse est restrint unique à la région de Rhône Alpes pour cette étude.
-![Rhône Alpes](https://drive.google.com/file/d/1J4RmpP8O4yKYgNZpYXHGZZq476aMWa4r/view?usp=sharing)
+![Rhône Alpes](https://drive.google.com/file/d/1J4RmpP8O4yKYgNZpYXHGZZq476aMWa4r/view?usp=imag_1)
 
 ## Analyse exploratoire
 
