@@ -27,3 +27,7 @@ Dans cette étude, nous avons considére un modéle sphérique, et un pas de 1 k
             RHA <- RHA[-zerodist(RHA)[,1],] 
             tweet.vgm<- gstat::variogram(num~ 1 , RHA, cutoff=1)
             tweet.fit <- autofitVariogram(num~ 1 , RHA,model = c("Sph"))
+
+## La grille et le krigeage
+
+Nous avons construit une grille régulliére de 1 km sur l'étandue de la région et nous avons réalise le krigeage. Vous pouvez visualise les résultats sur l'application shiny
