@@ -11,8 +11,8 @@ veilliez contacter:
   Tel : +33 4 76 82 61 23   
   web: https://www.pacte-grenoble.fr/membres/gilles-bastin 
   
-  - Armel Soubeiga 
-  Developper Data scientist Jugnior 
+  - Armel Soubeiga    
+  Developper Data scientist Jugnior        
   mail: armelsoubeiga93@gmail.com 
   
   - Sahal Miganof
