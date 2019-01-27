@@ -15,6 +15,6 @@ veilliez contacter:
   Developper Data scientist Jugnior        
   mail: armelsoubeiga93@gmail.com 
   
-  - Sahal Miganof
-  Data scientist jugnior
+  - Sahal Miganof    
+  Data scientist jugnior   
   mail: inamiganeh@gmail.com
