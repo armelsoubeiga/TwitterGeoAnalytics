@@ -1,4 +1,4 @@
-#COntext
+# Context
 
 La géostatistique est l'étude des variables régionalisées, à la frontière entre les mathématiques et les sciences de la Terre. Son principal domaine d'utilisation a historiquement été l'estimation des gisements miniers, mais son domaine d'application actuel est beaucoup plus large et tout phénomène spatialisé peut être étudié en utilisant la géostatistique.
 
