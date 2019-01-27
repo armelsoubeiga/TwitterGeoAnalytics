@@ -13,6 +13,8 @@ Cette analyse est restrint unique à la région de Rhône Alpes pour cette étud
 
 Sur l'application vous avez accées à une analyse exploratoire des données tweets dans la région de Rhône Alpes. Nous avons une visualisation cartographique du taux de tweets par commune.
 
+La partie analyse descriptive (univarié et bivarié) des données a été réalise avec le language. Qui est un language en boom démographique par sa simplicité et sa vitesse d'execussion par rapport à R et python
+
 ## Analyse variographique
 
 Cette partie est la plus importante de la modélisation spatiale. Elle permet de construire le modéle de prédiction et de le fitter sur nos données. Elle permet également d'évaluer l'erreur de prédiction et de réajuste les hyper-parametres. Notament la fonction (sphérique, exponentiel, ...), les pas de grille, ect. En gros, l'analyse variographie permet l'entrainement du modéle de prédiction spatiale.
