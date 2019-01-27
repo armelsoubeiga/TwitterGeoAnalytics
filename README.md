@@ -1,4 +1,4 @@
 # TwitterGeoAnalytics
 
-L'application Shiny est accéssible sur ce lien [AdaptivDesign App](https://armelsoubeiga.shinyapps.io/AdapticvDesign/
+L'application Shiny est accéssible sur ce lien [TwitterGeoAnalytics App](https://armelsoubeiga.shinyapps.io/TwitterGeoAnalytics/
 )
