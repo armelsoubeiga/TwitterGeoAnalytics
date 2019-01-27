@@ -7,13 +7,13 @@ veilliez contacter:
  - Gilles Bastin  
   Professeur de Sociologie  
   Univ. Grenoble Alpes, CNRS, Sciences Po Grenoble, PACTE, 38000 Grenoble, France 
-  School of Political Studies Univ. Grenoble Alpes 
-  Tel : +33 4 76 82 61 23
-  web: https://www.pacte-grenoble.fr/membres/gilles-bastin
+  School of Political Studies Univ. Grenoble Alpes  
+  Tel : +33 4 76 82 61 23 
+  web: https://www.pacte-grenoble.fr/membres/gilles-bastin 
   
   - Armel Soubeiga 
   Developper Data scientist Jugnior 
-  mail: armelsoubeiga93@gmail.com
+  mail: armelsoubeiga93@gmail.com 
   
   - Sahal Miganof
   Data scientist jugnior
