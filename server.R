@@ -66,7 +66,7 @@ join2<-as(join2,"SpatialPoints")
 gridded(join2)<-TRUE
 
 
-##Krigeage
+##analyse variographique
 coordinates(RHA)= ~longitude+latitude
 RHA <- RHA[-zerodist(RHA)[,1],] 
 tweet.vgm<- gstat::variogram(num~ 1 , RHA, cutoff=1)

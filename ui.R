@@ -66,16 +66,11 @@ ui <-navbarPage("Rhône Alpes", id="nav",
                ),
            
   tabPanel("Julia Code",
-                    box(title = "About this app", includeHTML("www/include.html"), width = "100%"),
-                    box(width  = "100%", height = 600
-                       )),
+           p("Il nous les scripts julia à inser")),
   
   tabPanel("About",
            box(title = "About this app", includeHTML("www/include.html"), width = "100%"),
            box(width  = "100%", height = 600,
-           p("La géostatistique est l'étude des variables régionalisées, à la frontière entre les mathématiques et les sciences de la Terre. 
-             Son principal domaine d'utilisation a historiquement été l'estimation des gisements miniers, mais son domaine d'application actuel 
-             est beaucoup plus large et tout phénomène spatialisé peut être étudié en utilisant la géostatistique."),
                leafletOutput("MiniMap"))
            )
 )
