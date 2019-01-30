@@ -52,4 +52,4 @@ Nous avons construit une grille régulliére de 1 km sur l'étandue de la régio
                         showall(data[1:5,:])
                         names(data)
                         Plots.histogram(data[:num],xlabel="nvr de tweet",xlims=(0,5000),color = :red,xtickfont = font(9,               "Courier"),legend=nothing,ylabel="Frequency")
-                        Plots.histogram(data[:P14_POP],xlabel="nvr de tweet",xlims=(0,5000),color = :red,xtickfont = font(9,             "Courier"),legend=nothing,ylabel="Frequency")
+                        Plots.histogram(data[:P14_POP],xlabel="nvr de tweet",xlims=(0,5000),color = :red,xtickfont = font(9, "Courier"),legend=nothing,ylabel="Frequency")
