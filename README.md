@@ -21,7 +21,7 @@ Cette partie est la plus importante de la modélisation spatiale. Elle permet de
 
 Dans cette étude, nous avons considére un modéle sphérique, et un pas de 1 km. Autrement dit sur chaque 1 km sur le territoire rhône alpes on prédit une estimation du nombre de tweets.
 
-            ##analyse variographique
+            #analyse variographique
             coordinates(RHA)= ~longitude+latitude
             RHA <- RHA[-zerodist(RHA)[,1],] 
             tweet.vgm<- gstat::variogram(num~ 1 , RHA, cutoff=1)
